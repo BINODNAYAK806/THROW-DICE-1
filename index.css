@@ -1,0 +1,46 @@
+#win{
+
+ border: 10px solid red;       
+ font-size: 30px;
+ text-align: center;
+ color: aqua;
+ background-color: black;
+ margin-bottom: 20px;
+ padding: 20px;   
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#cont{
+
+display: flex;
+display: flex;
+  justify-content: center;
+}
+#cont >div{
+
+
+font-size: 90px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+color: aqua;
+padding: 60px;
+margin: 20px;
+}
+
+#roll{
+
+    background-color: rgb(218, 208, 21);
+    justify-content: center;
+    border: 10px solid royalblue;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 10px solid rgb(95, 9, 142);
+  border-radius: 20px;
+
+}
+#roldiv{
+
+
+    text-align: center;
+
+}
